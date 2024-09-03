@@ -47,6 +47,6 @@ class RecentCourse {
 
   static Future<String> getData() async {
     return await rootBundle
-        .loadString('assets/learning/data/recent_courses.json');
+        .loadString('assets/full_apps/m3/learning/data/recent_courses.json');
   }
 }

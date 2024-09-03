@@ -184,7 +184,7 @@ flutter:
     - assets/homemade/data/
 
     # Learning
-    - assets/learning/data/
+    - assets/full_apps/m3/learning/data/
 
     # Plant
     - assets/images/full_apps/plant/images/

@@ -33,6 +33,6 @@ class Mentor {
   }
 
   static Future<String> getData() async {
-    return await rootBundle.loadString('assets/learning/data/mentors.json');
+    return await rootBundle.loadString('assets/full_apps/m3/learning/data/mentors.json');
   }
 }
